@@ -1,4 +1,4 @@
-# Avatar: Bending
+# The Four Benders
 
 Bend earth, water, fire and air with your hands. Grip the ground and pull, and a pillar follows your hand
 up. Sweep your look across a lake, and the ice runs after it. Draw a circle, and the wind winds into a
@@ -8,11 +8,11 @@ and the earth you throw is real physics, powered by Sable.
 An unofficial fan mod for **Minecraft 1.21.1 on NeoForge**.
 
 This repository holds the **[player guide](docs/guide/README.md)** and the place to
-**[report bugs](https://github.com/T6p/avatar-bending/issues)**. The mod's source code is not public.
+**[report bugs](https://github.com/T6p/the-four-benders/issues)**. The mod's source code is not public.
 
 ## Download
 
-[Modrinth](https://modrinth.com/mod/avatar-bending)
+[Modrinth](https://modrinth.com/mod/the-four-benders)
 
 ## What it adds
 
@@ -72,9 +72,9 @@ progression, the world, [commands and config](docs/guide/commands-and-config.md)
 
 ## Reporting a bug
 
-Open an issue on the [Issues](https://github.com/T6p/avatar-bending/issues) page and include:
+Open an issue on the [Issues](https://github.com/T6p/the-four-benders/issues) page and include:
 
-- the versions of Minecraft, NeoForge, Avatar: Bending, Sable, GeckoLib and playerAnimator, and any other mods;
+- the versions of Minecraft, NeoForge, The Four Benders, Sable, GeckoLib and playerAnimator, and any other mods;
 - what you did, what you expected and what happened instead;
 - `logs/latest.log` from your game folder (and the file in `crash-reports/` if the game crashed).
 

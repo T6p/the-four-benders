@@ -5,7 +5,7 @@ You need Minecraft **1.21.1** with **NeoForge 21.1.228 or newer**, and Java 21. 
 
 | Mod | Version | Where |
 |---|---|---|
-| Avatar: Bending | 0.1.0 | client and server |
+| The Four Benders | 0.1.0 | client and server |
 | [Sable](https://modrinth.com/mod/sable) | 2.0.6 or newer | client and server |
 | [GeckoLib](https://modrinth.com/mod/geckolib) | 4.8 or newer | client and server |
 | [playerAnimator](https://modrinth.com/mod/playeranimator) | 2.0.4 or newer | client (a server can skip it) |

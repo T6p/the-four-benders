@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: "Something in Avatar: Bending doesn't work as it should"
+about: "Something in The Four Benders doesn't work as it should"
 labels: bug
 ---
 
 **Versions**
 - Minecraft: 1.21.1
 - NeoForge:
-- Avatar: Bending:
+- The Four Benders:
 - Sable / GeckoLib / playerAnimator:
 - Other mods:
 - Singleplayer or server:

@@ -1,6 +1,6 @@
-# Avatar: Bending, player guide
+# The Four Benders, player guide
 
-A guide to the Avatar: Bending mod for Minecraft 1.21.1 (NeoForge), version 0.1.0.
+A guide to The Four Benders, a mod for Minecraft 1.21.1 (NeoForge), version 0.1.0.
 Keys are the defaults. You can change them in **Options > Controls > Avatar**, and the in-game scroll (**J**) always shows your own bindings.
 
 ## Start here
