@@ -1,0 +1,42 @@
+Avatar: Bending (Minecraft mod, mod id "avatar")
+Copyright (c) 2026 T6p. All rights reserved.
+
+This license covers the mod's code, textures, models, animations, sounds and text
+("the Mod"), in source and compiled form.
+
+YOU MAY, free of charge and without asking:
+
+  1. Download the Mod from its official pages (Modrinth, CurseForge) and play it,
+     alone or with others.
+  2. Run the Mod on any Minecraft server, private or public.
+  3. Include the unmodified Mod jar in a modpack, as long as the pack is free to
+     download, credits the Mod by name and author, and links to an official page.
+     Packs on Modrinth and CurseForge that pull the file from those sites are
+     always fine.
+  4. Make and publish videos, streams and screenshots that show the Mod, monetised
+     or not.
+
+YOU MAY NOT, without written permission from the author:
+
+  5. Re-upload the Mod, or any part of it, to any other website or service.
+  6. Sell the Mod, or put it behind a paywall, a login wall or an ad link.
+  7. Distribute modified versions of the Mod, or reuse its code or assets in
+     other projects.
+
+DEPENDENCIES. Sable, GeckoLib and playerAnimator are separate mods by other
+authors under their own licenses. None of them is included in the Mod; players
+install them separately.
+
+FAN WORK. This is an unofficial, non-commercial fan work. It is not affiliated
+with, endorsed by or sponsored by Nickelodeon, Paramount, Avatar Studios, Mojang
+Studios or Microsoft. All names and trademarks belong to their owners.
+
+NO WARRANTY. THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE MOD OR
+THE USE OF OR OTHER DEALINGS IN THE MOD. BACK UP YOUR WORLDS.
+
+Questions or permission requests: contact T6p through the Mod's Modrinth or
+CurseForge page.
